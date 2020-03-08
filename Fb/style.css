@@ -1,0 +1,75 @@
+.menu-bar{
+    background-color: #3b5998;
+}
+#fb{
+    color:white
+}
+.login-bar{
+    justify-content: flex-end;
+    color:white;
+}
+.main-content{
+    background: linear-gradient(white, #D3D8E8);
+}
+.fb-qoute{
+    font-weight:bold;
+    font-size:20px ;
+    color: #0e385f;
+    line-height: 29px;
+}
+img{
+    border: 0;
+}
+.register-input{
+    border-radius: 5px;
+    border-color: #bdc7d8;
+    padding: 8px 10px;
+    background-color: white;
+    text-align: start;
+    margin: 2px;
+    margin-top: 10px;
+}
+.birth-gender{
+    margin-top:8px;
+    color: #90949c;
+    font-size: 16px;
+    font-weight: bold;
+}
+.gender-wrapper{
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 18px;
+    padding: 0 10px 0 3px;
+}
+.gender-box{
+    margin: 2px;
+    margin-top: 10px;
+}
+.rules{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 11px;
+}
+.register-button{
+    font-size: 19px;
+    background: linear-gradient(#79bc64, #578843);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    line-height: 126%;
+    padding: 7px 20px;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    width: 40%;
+}
+li{
+    display: inline;
+    margin:2px;
+    color: #385898 ;
+}
